@@ -45,6 +45,8 @@ public class SeasonFinder {
             case 12:
                 System.out.println("It is winter, so wear a winter coat, gloves and a hat");
                 break;
+
         }
+        System.out.println("sadsfsa");
     }
 }
