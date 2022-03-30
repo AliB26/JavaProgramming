@@ -1,6 +1,7 @@
 package Methods;
 
 import java.util.Arrays;
+//hi
 
 public class arrayNumbers {
     public static void evenAndOdd(int[] nums){
